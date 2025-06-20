@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import Padre from './padrehijo/Padre'
-import AppPersonaje from './ejemplopractico/AppPersonaje'
+import AppLibro from './libros/AppLibro'
 import './App.css'
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
 
   return (
     <>
-      <AppPersonaje />
+      <AppLibro />
     </>
   )
 }
