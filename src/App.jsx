@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import AppLibro from './libros/AppLibro'
+import AppCriptos from './ejemplocriptos/AppCriptos'
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <AppLibro />
+      <AppCriptos />
     </>
   )
 }
