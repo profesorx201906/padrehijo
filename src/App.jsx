@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import Padre from './padrehijo/Padre'
+import AppPersonaje from './ejemplopractico/AppPersonaje'
 import './App.css'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-      <Padre />
+      <AppPersonaje />
     </>
   )
 }
