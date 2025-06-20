@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Padre from './padrehijopadre/Padre'
+import Padre from './padrehijo/Padre'
 import './App.css'
 
 function App() {
