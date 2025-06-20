@@ -14,7 +14,7 @@ const AppPokemons = () => {
 
   return (
     <div style={{ padding: 20 }}>
-      <h1>Tabla de Pokémons con componentes separados</h1>
+      <h1>Tabla de Pokémons</h1>
 
       <label>
         Número de Pokémons a mostrar:&nbsp;
